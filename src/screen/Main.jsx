@@ -4,7 +4,7 @@ import io from "socket.io-client";
 
 // export const serverRoute = "http://localhost:8080";
 // export const serverRoute = "https://salamh2-se-yrp7.onrender.com";
-export const serverRoute = "https://salmh-se.onrender.com";
+export const serverRoute = "https://salmh-se-0rmp.onrender.com";
 export const socket = io(serverRoute);
 const Main = () => {
      const navigate = useNavigate();
